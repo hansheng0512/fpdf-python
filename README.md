@@ -39,6 +39,6 @@ $ pip install fpdf
 
 ### Run and create PDF
 ```
-$ python main.py
+$ python sample.py
 ```
 
