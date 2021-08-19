@@ -28,7 +28,7 @@ You can find the documentation of PyFPDF and tFPDF here:
 $ git clone https://github.com/Techyhans/pdf-python.git
 ```
 
-### To Enable FPDF With Chinese Font: <br>
+### To Enable FPDF With Multiple Languages: <br>
 1. Install PHP
 - [How to install PHP on Windows](https://www.sitepoint.com/how-to-install-php-on-windows/)
 
