@@ -1,5 +1,5 @@
 # pdf-python
-Create a pdf using Python
+Create a pdf using Python. Explanation in this [Medium article](https://github.com/hansheng0512/fpdf-python).
 
 ## Table of contents
 * [General info](#general-info)
